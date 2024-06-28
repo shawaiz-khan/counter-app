@@ -1,0 +1,33 @@
+.counter {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.main_heading {
+    color: white;
+}
+
+.forward__button,
+.backward__button {
+    padding: 10px 40px 10px 40px;
+}
+
+.reset_container {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.reset__button {
+    margin-top: 10px;
+    padding: 10px 30px 10px 30px;
+    width: 70%;
+}
+
+.count_span {
+    margin: 0 10px 0 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
